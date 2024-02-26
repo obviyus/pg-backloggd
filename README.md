@@ -1,6 +1,7 @@
 ## Overview
 This is a simple web scraper spider which scrapes game log data from your Backloggd profile.(https://backloggd.com/)
-The data is organized by status (played, playing, backlog, wishlist) and export to a CSV file `all_entries.csv`.
+
+The scraped data is organized by status (played, playing, backlog, wishlist) and export to a CSV file `all_entries.csv`.
   
 ## Installation
 
@@ -29,5 +30,5 @@ The data is organized by status (played, playing, backlog, wishlist) and export 
 
 ## Notes
 
-- This spider scrapes data directly from the Backlogg'd website since there is no official API available.
+- This spider scrapes data directly from Backloggd's website since there is no official API available.
 - Use responsibly and respect the website's terms of service.
