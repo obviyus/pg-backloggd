@@ -1,0 +1,5 @@
+backloggd-export/
+*.csv
+*.db
+.env
+__pycache__/

@@ -1,0 +1,12 @@
+[project]
+name = "pg-backloggd"
+version = "0.1.0"
+description = "A simple collection of scripts that read the Backloggd profiles of users and display their stats with a custom scoring formula."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+  "beautifulsoup4>=4.12.3",
+  "python-dotenv>=1.0.1",
+  "requests>=2.32.3",
+  "scrapy>=2.11.2",
+]
